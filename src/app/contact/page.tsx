@@ -38,7 +38,7 @@ function page() {
             className="rounded-lg border border-none focus:ring-2 focus:ring-teal-500 w-full p-4 bg-neutral-950 placeholder:text-neutral-500"
             rows={5}
             required
-          ></textarea>
+          />
           <button
             type="submit"
             className="w-fit self-end px-6 py-2 text-xs md:text-sm rounded-lg bg-teal-600 text-[#F5F5F5] font-medium hover:bg-teal-700 focus:outline-none focus:ring-2 focus:ring-teal-500 focus:ring-offset-2"
